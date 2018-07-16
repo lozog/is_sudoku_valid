@@ -1,6 +1,6 @@
-# Word Boggle
+# Is Sudoku Valid 
 
-[Problem on Geeksforgeeks](https://practice.geeksforgeeks.org/problems/word-boggle/0)
+[Problem on Geeksforgeeks](https://practice.geeksforgeeks.org/problems/is-sudoku-valid/0)
 
 Given an incomplete Sudoku configuration in terms of a 9x9 2-D square matrix (mat[][]) the task to check if the configuration has a solution or not. 
 
